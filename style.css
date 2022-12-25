@@ -1,0 +1,38 @@
+*{
+     background-color: 810CA8;
+}
+
+.hello{
+     
+
+}
+#div_hello{
+     
+       
+        
+         font-family: 'Nerko One', cursive;
+      
+         height: 400px;
+         font-size: 120px;
+         display: flex;
+         justify-content: center;
+         align-items: flex-end;
+
+}
+
+.hello:hover{
+
+    
+     color: E5B8F4;
+     cursor: hand;
+     font-size: 105px;
+}
+
+.hello::selection{
+            background-color: C147E9;
+
+}
+
+
+
+
