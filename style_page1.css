@@ -63,3 +63,7 @@
            }
            
 }
+
+.click_me::selection{
+     background-color: C147E9;
+}

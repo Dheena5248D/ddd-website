@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(255, 42, 42, 0.822);
+}
+a{
+    text-decoration: none;
+}
+#about{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 200px;
+    font-size: 50px;
+   
+
+}
+#a{
+    color: black;
+}
+
+#social_media{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 45px;
+    margin-top: 50px;
+    
+}
+#sm{
+    color: black;
+}
