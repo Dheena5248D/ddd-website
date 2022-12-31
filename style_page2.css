@@ -28,3 +28,14 @@ a{
 #sm{
     color: black;
 }
+
+#hireme{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 45px;
+    margin-top: 50px;
+}
+.hireme{
+    color: black;
+} 
