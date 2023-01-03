@@ -1,6 +1,10 @@
 body{
     background-color: #0CCA4A;
     font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+}
+.{
+    box-sizing: border-box;
 }
 a{
     text-decoration: none;
@@ -13,7 +17,8 @@ a{
     font-size: 50px;
     margin-left: 500px;
     margin-right: 500px;
-
+float: left;
+  
 }
 #a{
     color: black;
@@ -27,7 +32,8 @@ a{
     margin-top: 50px;
     margin-left: 500px;
     margin-right: 500px;
-    
+    float: left;
+  
 }
 #sm{
     color: black;
@@ -41,6 +47,8 @@ a{
     margin-top: 50px;
     margin-left: 500px;
     margin-right: 500px;
+    float: left;
+    
 }
 .hireme{
     color: black;
@@ -54,9 +62,29 @@ a{
     margin-top: 50px;
     margin-left: 500px;
     margin-right: 500px;
+         float: left;
+    
 }
-
+    
 .projects{
     color: black;
+}
+
+#naruto{
+    height: 660px;
+    margin-left: 700px;
+    
+    display: flex;
+    align-items: flex-start;
+    justify-content: right;
+
+}
+
+.naruto{
+    margin-top: 0px;
+padding-top: 0px;
+margin: 0px;
+padding: 0px;
+
 }
 
